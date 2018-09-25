@@ -1,3 +1,9 @@
+Disease Module Identification from Biological Interaction Networks Based on Singular Value Thresholding and Hierarchical Clustering
+
+This is my solution (https://www.synapse.org/#!Synapse:syn7345978/wiki/407310) to Disease Module Identification DREAM Challenge (https://www.synapse.org/#!Synapse:syn6156761/wiki/400645)
+
+Instructions:
+
 1. How to directly run the code
 The code is written in Python.
 If you have installed Anaconda version of Python, then you do not need to install any additional packages.
